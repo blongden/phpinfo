@@ -1,0 +1,3 @@
+set -e
+shopt -s dotglob
+echo "---> Installing application source..."
